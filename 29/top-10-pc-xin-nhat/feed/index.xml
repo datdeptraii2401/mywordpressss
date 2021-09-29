@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Top 10 pc xịn nhất	</title>
+	<atom:link href="http://localhost/myproject/wordpress/29/top-10-pc-xin-nhat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpressss/29/top-10-pc-xin-nhat/</link>
+	<description>Tạo cho bạn cảm giác thoải mái nhất</description>
+	<lastBuildDate>Wed, 29 Sep 2021 10:52:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
