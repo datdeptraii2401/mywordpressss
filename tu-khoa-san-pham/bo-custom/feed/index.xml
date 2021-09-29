@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bộ custom &#8211; datdeptraiiiiii</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/bo-custom/feed/" rel="self" type="application/rss+xml" />
+	<link>https://datdeptraii2401.github.io/mywordpressss</link>
+	<description>Tạo cho bạn cảm giác thoải mái nhất</description>
+	<lastBuildDate>Wed, 29 Sep 2021 04:04:35 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Bộ máy tính custom 4.</title>
+		<link>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-4/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-4/#respond</comments>
+		
+		<dc:creator><![CDATA[123456789]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 04:04:35 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressss/?post_type=product&#038;p=69</guid>
+
+					<description><![CDATA[Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.]]></description>
+										<content:encoded><![CDATA[<p>Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bộ máy tính custom 3.</title>
+		<link>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-3/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-3/#respond</comments>
+		
+		<dc:creator><![CDATA[123456789]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 04:03:34 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressss/?post_type=product&#038;p=67</guid>
+
+					<description><![CDATA[Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.]]></description>
+										<content:encoded><![CDATA[<p>Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bộ máy tính custom 2.</title>
+		<link>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-2/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-2/#respond</comments>
+		
+		<dc:creator><![CDATA[123456789]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 04:01:48 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressss/?post_type=product&#038;p=65</guid>
+
+					<description><![CDATA[Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.]]></description>
+										<content:encoded><![CDATA[<p>Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bộ máy tính custom 1</title>
+		<link>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-1/</link>
+					<comments>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-1/#respond</comments>
+		
+		<dc:creator><![CDATA[123456789]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 03:59:27 +0000</pubDate>
+				<guid isPermaLink="false">https://datdeptraii2401.github.io/mywordpressss/?post_type=product&#038;p=63</guid>
+
+					<description><![CDATA[Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.]]></description>
+										<content:encoded><![CDATA[<p>Bộ máy tính custom dành cho khách có nhu cầu mua theo bộ.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://datdeptraii2401.github.io/mywordpressss/product/bo-may-tinh-custom-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
